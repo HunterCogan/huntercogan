@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hunter Cogan
 
-<!--
-**HunterCogan/huntercogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught frontend developer with 6 years of professional experience
+building responsive, user-focused web interfaces.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core**
+JavaScript · TypeScript · HTML · CSS
+
+**Frameworks & Libraries**
+React · Next.js · Node.js · Redux · Tailwind CSS
+
+**Databases & Tools**
+MongoDB · Git · GitHub
+
+**Also familiar with**
+Java · Python
+
+## What I'm Working On
+
+- Building [MixGit](https://mixgit.tech) — a collaborative project platform
+
+## Contact
+
+- Email: robert.h.cogan@gmail.com
+- LinkedIn: [hunter-cogan](https://www.linkedin.com/in/hunter-cogan/)
