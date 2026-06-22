@@ -35,6 +35,7 @@ building responsive, user-focused web interfaces.
 ## What I'm Working On
 
 - Building [MixGit](https://mixgit.tech) — a collaborative project platform
+- Repo: https://github.com/HunterCogan/mixgit
 
 ## Contact
 
