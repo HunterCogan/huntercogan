@@ -1,7 +1,6 @@
 # Hunter Cogan
 
-Self-taught frontend developer with 6 years of professional experience
-building responsive, user-focused web interfaces.
+I've spent the last 6 years building responsive, user-focused interfaces as a frontend developer. This year, I'm expanding into full-stack development, picking up backend architecture, API design, and database work to round out my skill set.
 
 ## Tech Stack
 
@@ -38,6 +37,8 @@ building responsive, user-focused web interfaces.
 - Repo: https://github.com/HunterCogan/mixgit
 
 ## Contact
+
+- Portfolio: [My Website](https://www.huntercogan.com/)
 
 - Email: robert.h.cogan@gmail.com
 - LinkedIn: [hunter-cogan](https://www.linkedin.com/in/hunter-cogan/)
