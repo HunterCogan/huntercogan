@@ -33,7 +33,7 @@ I've spent the last 6 years building responsive, user-focused interfaces as a fr
 
 ## What I'm Working On
 
-- Building [MixGit](https://mixgit.tech) — a collaborative project platform
+- Building [MixGit](https://mixgit.tech) - a collaborative project platform
 - Repo: https://github.com/HunterCogan/mixgit
 
 ## Contact
